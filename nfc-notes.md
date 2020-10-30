@@ -402,3 +402,62 @@ end: 2:12
 
 - Loaded into Vesper. Identified a couple of birds - not many.
 - Loaded 2:12-> dawn tseeps onto the remote eBird. Didn't load thrushes, as I think there's more to identify there.
+
+#### 2020-10-15
+
+Listened from 10:22-11:32. Little of note. One weird downward call from 6-2khz. No waterfowl.
+
+#### 2020-10-17
+
+Listened from 10:03:45 to 10:39:20.
+
+#### 2020-10-18 2020-10-19
+
+- Didn't listen live on 10-18
+- Listened 10-19 from 8:00 to 12:00. Raining.
+
+- [x] Upload into Vesper
+
+#### 2020-10-20
+
+Listened fro 8-8:30, and 12:30-1. Heard nothing. Didn't log as live.
+
+Classified, uploaded. Didn't go through the file manually at length. Possibly more.
+
+First Dunlin.
+
+#### 2020-10-21
+
+- Started listening at 21:55.
+- Heard SPSA at 22:47
+- Heard something strange at 23:46. Sounded like the crosswalk, but was irregular.
+- stopped at 1:30
+
+#### 2020-10-26
+
+- No listening live
+
+Logged on eBird using Vesper. Didn't manually search file.
+
+#### 2020-10-27
+
+Live listening:
+- Started 9:28
+- Ended 10:57
+
+- Sparrow 10:15, 10:17, 10:27, 10:41
+- HETH 10:20
+
+- Logged all on eBird.  Didn't manually search file.
+
+#### 2020-10-28
+
+Started at 21:44.
+Stopped at 23:11.
+
+Uploaded to Vesper, classified, exported, and uploaded to eBird. Didn't check file manually.
+
+#### 2020-10-29
+
+Didn't listen live.
+Used Vesper, uploaded to account. Didn't look at thing manually.
