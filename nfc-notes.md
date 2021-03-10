@@ -461,3 +461,21 @@ Uploaded to Vesper, classified, exported, and uploaded to eBird. Didn't check fi
 
 Didn't listen live.
 Used Vesper, uploaded to account. Didn't look at thing manually.
+
+#### 2020-11-02 -> 2020-11-07
+
+Didn't listen live.
+Analysed, uploaded. Didn't go through recording manually.
+
+#### 2020-11-08
+
+Live: 7:16-8:00, 8:30-9:25.
+Analysed, uploaded. Didn't go through recording manually.
+
+#### 2020-11-09
+
+Live: 20:00-21:25
+
+For some reason, failed to save as a .wav file. It kept recording, so file was almost 3GB in size. Not sure why this happened. Lost night.
+
+
