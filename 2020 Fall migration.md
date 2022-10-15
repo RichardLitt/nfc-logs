@@ -156,8 +156,6 @@ Recorded:
 - 2020-09-03 21:04 https://ebird.org/checklist/S73255011
 (Covers time before listening live)
 
-<!-- The following were found later in another file -->
-
 - [x] Identify tseeps
 - [ ] Identify thrushes
 - [~] Create checklists for remote listening
@@ -166,7 +164,6 @@ Recorded:
 - [x] Create checklists for live listening
 - [ ] Add in tseeps as passerines
 - [ ] Add in thrushes as passerines
-
 
 #### 2020-09-04
 
@@ -279,6 +276,24 @@ Recorded:
 
 Live:
 - 22:40-22:15. Very quiet, nothing of note.
+
+#### 2020-09-14
+
+Live: 20:30-00:40:00
+  - 21:51 (I think) Some weird pdoo sound. Sent to Larry.
+  - 22:55 AMBI, two squawks.
+  - 23:18 Pissed off animal.
+  - 23:35 CANG. Saved.
+  - 00:41 An interesting tseep. Look it up later.
+
+Recorded:
+  - 2:05 CANG. Previous CANG wasn't spotted by Vesper. Worrying.
+
+- [x] Load into Vesper
+- [x] Export Tseeps
+- [ ] Classify thrushes
+- [x] Load tseeps into eBird
+- [x] Add in three files from above
 
 
 #### 2020-09-15
@@ -477,5 +492,4 @@ Analysed, uploaded. Didn't go through recording manually.
 Live: 20:00-21:25
 
 For some reason, failed to save as a .wav file. It kept recording, so file was almost 3GB in size. Not sure why this happened. Lost night.
-
 
