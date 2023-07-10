@@ -29,7 +29,7 @@ Also, 'zeep' calls should automatically suggest warbler sp. No sparrows coming t
 Didn't record at night - mic was in, was out in NH climbing.
 
 ## August 14, 2022
-
+z
 20:30 Began recording for civil twilight. Heard Canada Geese, made a checklist. Stopped at 9:05, went to bed.
 
 ## August 15, 2022
@@ -124,3 +124,11 @@ https://ebird.org/checklist/S120682132
 https://ebird.org/checklist/S120682930
 
 Also cleaned up this file a bit, and deleted the November 15 2021 recording from the archive, and went through many of the recordings from the past few weeks in a haphazard way.
+
+## October 15, 2022
+
+All uploaded to eBird and iNat. Listened live for 2.5 hours, without sound. Used both accounts. Also exported clips and uploaded lots to iNat for the first time. Big migration night.
+
+## October 16
+
+Listened live from 6:42pm, to 7:42pm, when switched to normal recording due to astro. twilight. Stopped at 10:00pm sharp. Haven't logged anything yet.

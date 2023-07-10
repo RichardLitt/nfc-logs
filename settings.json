@@ -58,6 +58,9 @@
     },
     "PASSERIFORMES": {
       "text": "Automatically classified by BirdVox 0.6.0, and visually inspected by me."
+    },
+    "SWSP_LISP": {
+      "text": "Swamp Sparrow and Lincoln's Sparrow are difficult to tell apart, and it seemed safest to just call it a split here. The call is a relatively long sparrow call with a lot of modulations - like 25 or so - over around .75 seconds, in two bands hovering at around 7kHz."
     }
   },
   "stations": {
@@ -72,6 +75,30 @@
       "Latitude": "44.258040",
       "Longitude": "-72.574440",
       "Kit": "Recorded using an OldBird 21c microphone made from the custom kit, recording to an old HP laptop using I-Recorder on Windows 10, at 22050Hz, mono, 16bit."
+    },
+    "cohasset": {
+      "Location Name": "Holly Hill Farms Cornelia and Richardson White Woods",
+      "Latitude": "42.2503228",
+      "Longitude": "-70.8187027",
+      "Kit": "Recorded using an Audiomoth."
+    },
+    "catania": {
+      "Location Name": "Catania",
+      "Latitude": "37.4906905",
+      "Longitude": "15.0074785",
+      "Kit": "Recorded using an Audiomoth."
+    },
+    "queens": {
+      "Location Name": "Queens",
+      "Latitude": "40.7476706",
+      "Longitude": "-73.9136994",
+      "Kit": "Recorded using an Audiomoth/"
+    },
+    "krumrine": {
+      "Location Name": "Krumrine",
+      "Latitude": "40.0000",
+      "Longitude": "70.000",
+      "Kit": "Recorded with an OldBird 21c."
     }
   }
 }
